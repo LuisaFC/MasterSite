@@ -49,17 +49,6 @@
                         color: var(--orange);
                         font-weight: bold;
                     }
-        
-                    &.active::after{
-                        content: "";
-                        height: 4px;
-                        border-radius: 3px 3px 0 0;
-                        width: 100%;
-                        position: absolute;
-                        bottom: 0px;
-                        left: 0;
-                        background: var(--orange);
-                    }
                 }
             }
         }

@@ -1,0 +1,19 @@
+.signUpButton{
+    height: 2.8rem;
+    border-radius: 5px;
+    background-color: var(--orange);
+    color: var(--white);
+    border: 1px solid var(--orange);    
+    padding: 0 1rem;
+    margin-left: 1.5rem !important;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: brightness 0.4s;
+
+    &:hover{
+        filter: brightness(0.8)
+    }
+}

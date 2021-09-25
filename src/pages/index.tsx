@@ -7,7 +7,7 @@ export default function Home() {
         <title>MasterSite Brasil</title>
       </Head>
       <h1>
-        Hello World
+        
       </h1>
     </>
   )
